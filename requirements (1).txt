@@ -1,0 +1,6 @@
+# Python dependencies for local execution
+tensorflow
+numpy
+matplotlib
+scikit-learn
+kagglehub
